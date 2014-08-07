@@ -1,3 +1,0 @@
-[submodule "testapp/app/tests/webdriver"]
-	path = testapp/app/tests/webdriver
-	url = git@github.com:geneosoftware/front-end-test-skeleton.git
